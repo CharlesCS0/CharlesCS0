@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello, I'm Charles
 
-<!--
-**CharlesCS0/CharlesCS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student (FdSc) & Studying Cisco CCNA
 
-Here are some ideas to get you started:
+Based in the United Kingdom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects & Labs 🧪
+Cisco Packet Tracer labs and automation scripts written in Python 3 and PowerShell.
+
+## Languages 💻
+- Python
+- PowerShell  
+
+## Environment 🖥️
+- Windows 11 Pro
+- Linux Mint / Kali Linux VMs (VMware Workstation Pro)
+- Cisco Packet Tracer
+- Visual Studio Code
+
+## Interests 🎯
+- Cybersecurity
+- Networking
+- Automation
+- Artificial intelligence (AI)/Machine learning (ML)
+
+## Connect 🔗
+https://www.linkedin.com/in/charles-blackaby
