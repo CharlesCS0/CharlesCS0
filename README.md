@@ -1,6 +1,6 @@
 ## Hello, I'm Charles
 
-Cybersecurity student (FdSc) & Studying Cisco CCNA
+Cybersecurity student (FdSc) | Studying for Cisco CCNA
 
 Based in the United Kingdom
 
@@ -8,8 +8,8 @@ Based in the United Kingdom
 Cisco Packet Tracer labs and automation scripts written in Python 3 and PowerShell.
 
 ## Languages 💻
+- PowerShell
 - Python
-- PowerShell  
 
 ## Environment 🖥️
 - Windows 11 Pro
