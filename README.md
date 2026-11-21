@@ -13,8 +13,8 @@ Cisco Packet Tracer labs and automation scripts written in Python 3 and PowerShe
 
 ## Environment 🖥️
 - Windows 11 Pro
-- Windows Sandbox
 - Linux Mint / Kali Linux VMs (VMware Workstation Pro)
+- Windows Sandbox
 - Cisco Packet Tracer
 - Visual Studio Code
 
