@@ -5,7 +5,7 @@ Cybersecurity student (FdSc) | Studying for Cisco CCNA
 Based in the United Kingdom
 
 ## Projects & Labs 🧪
-Cisco Packet Tracer labs and automation scripts written in Python 3 and PowerShell.
+Cybersecurity projects, PowerShell scripts, Python 3, Cisco Packet Tracer labs and Windows Sandbox configurations.
 
 ## Languages 💻
 - PowerShell
