@@ -9,12 +9,12 @@ Cybersecurity projects, PowerShell scripts, Python 3, Cisco Packet Tracer labs a
 
 ## Languages 💻
 - PowerShell
-- Python
+- Python 3
 
 ## Environment 🖥️
 - Windows 11 Pro
 - Linux Mint / Kali Linux VMs (VMware Workstation Pro)
-- Windows Sandbox
+- Windows Sandbox (.wsb configurations)
 - Cisco Packet Tracer
 - Visual Studio Code
 
