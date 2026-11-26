@@ -13,7 +13,7 @@ Cybersecurity projects, PowerShell scripts, Python 3, Cisco Packet Tracer labs a
 
 ## Environment 🖥️
 - Windows 11 Pro
-- Linux Mint / Kali Linux VMs (VMware Workstation Pro)
+- Windows 10 (64 bit), Linux Mint & Kali Linux VMs (VMware Workstation Pro)
 - Windows Sandbox (.wsb configurations)
 - Cisco Packet Tracer
 - Visual Studio Code
