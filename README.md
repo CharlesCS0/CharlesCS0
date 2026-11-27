@@ -9,7 +9,7 @@ Cybersecurity projects, PowerShell scripts, Python 3, Cisco Packet Tracer labs a
 
 ## Languages 💻
 - PowerShell 7.7 (Primary shell)
-- PowerShell 5.1 (legacy testing)
+- PowerShell 5.1 (Legacy testing)
 - Python 3
 
 ## Environment 🖥️
