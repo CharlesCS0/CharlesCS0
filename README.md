@@ -8,7 +8,8 @@ Based in the United Kingdom
 Cybersecurity projects, PowerShell scripts, Python 3, Cisco Packet Tracer labs and Windows Sandbox configurations.
 
 ## Languages 💻
-- PowerShell
+- PowerShell 7.7 (Primary shell)
+- PowerShell 5.1 (legacy testing)
 - Python 3
 
 ## Environment 🖥️
